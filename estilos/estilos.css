@@ -1,0 +1,18 @@
+body{
+    background-image: url("../img/Galaxy.jpg");
+    background-size: cover;
+
+}
+
+.slideimg{
+
+    background-color: rgba(0, 0, 0, 0.658);
+
+}
+
+.imagesli1{
+
+    Display:block;
+    margin:auto;
+
+}
