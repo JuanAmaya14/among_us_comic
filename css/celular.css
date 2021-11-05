@@ -74,6 +74,27 @@
         width: 50%;
     
     }
+
+
+    .pocision_redes{
+
+        position: absolute;
+        left: 60%;
+        bottom: -123%;
+        z-index: 2;
+
+
+    }
+
+    .pocision_redes_personajes{
+
+        position: absolute;
+        left: 60%;
+
+
+        z-index: 2;
+
+    }
     
     footer{
     
